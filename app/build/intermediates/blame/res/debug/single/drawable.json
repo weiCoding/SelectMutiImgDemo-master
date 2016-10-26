@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_sharp_selector.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\btn_camera_sharp_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_photo_sharp_selector.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\btn_photo_sharp_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_photo_cancel_sharp_selector.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\btn_photo_cancel_sharp_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    }
+]

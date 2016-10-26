@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_47caabc26ea8ccee02d06b452942a7a3f26b43f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_fff5ba9dcfc3fb927efe66bf6ce29e1891a7463e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4435779c8db8e0339323cf885a13a50d59e6fa75">
+        <dex dex="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b224a79bd6cbb2f921ea42332680ca514b365ad6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_aff86b5bd124da1f1c3b8bc444a32380388c0772.jar" />
+    </item>
+    <item
+        jar="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ff6e25adf3db3b63a372840ef20e19462626c94d">
+        <dex dex="E:\AndroidDemo\SelectMutiImgDemo-master\app\build\intermediates\pre-dexed\debug\instant-run_772ff8e18903e6a538bd387db629caa0ba0f65b0.jar" />
+    </item>
+
+</items>

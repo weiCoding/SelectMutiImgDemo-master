@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\gallery.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_singal_item.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\item_published_singal_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "E:\\AndroidDemo\\SelectMutiImgDemo-master\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    }
+]

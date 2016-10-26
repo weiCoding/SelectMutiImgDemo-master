@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="WaterWaveProgress"><attr format="dimension" name="progressWidth"/><attr format="dimension" name="fontSize"/><attr format="color" name="progressColor"/><attr format="color" name="progressBgColor"/><attr format="color" name="waterWaveColor"/><attr format="color" name="waterWaveBgColor"/><attr format="dimension" name="progress2WaterWidth"/><attr format="boolean" name="showProgress"/><attr format="boolean" name="showNumerical"/><attr format="color" name="textColor"/><attr format="integer" name="progress"/><attr format="integer" name="maxProgress"/></declare-styleable>
+    <dimen name="ui_10_dip">10dp</dimen>
+    <string name="app_name">SelectMutiImgDemo</string>
+    <string name="hello">Hello World, Lop!</string>
+</resources>
